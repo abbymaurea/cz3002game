@@ -13,4 +13,5 @@ class App extends Component {
   }
 }
 
+app.use(compression());
 export default App;
