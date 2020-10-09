@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cz3002game/static/css/main.9afecbd1.chunk.css",
+    "main.js": "/cz3002game/static/js/main.bc5393da.chunk.js",
+    "main.js.map": "/cz3002game/static/js/main.bc5393da.chunk.js.map",
+    "runtime-main.js": "/cz3002game/static/js/runtime-main.7047dde6.js",
+    "runtime-main.js.map": "/cz3002game/static/js/runtime-main.7047dde6.js.map",
+    "static/js/2.462e066a.chunk.js": "/cz3002game/static/js/2.462e066a.chunk.js",
+    "static/js/2.462e066a.chunk.js.map": "/cz3002game/static/js/2.462e066a.chunk.js.map",
+    "index.html": "/cz3002game/index.html",
+    "precache-manifest.6ca42dc2de5a2d7bee109bf4570a27f5.js": "/cz3002game/precache-manifest.6ca42dc2de5a2d7bee109bf4570a27f5.js",
+    "service-worker.js": "/cz3002game/service-worker.js",
+    "static/css/main.9afecbd1.chunk.css.map": "/cz3002game/static/css/main.9afecbd1.chunk.css.map",
+    "static/js/2.462e066a.chunk.js.LICENSE.txt": "/cz3002game/static/js/2.462e066a.chunk.js.LICENSE.txt",
+    "static/media/button_press.mp3": "/cz3002game/static/media/button_press.e3789c2b.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7047dde6.js",
+    "static/js/2.462e066a.chunk.js",
+    "static/css/main.9afecbd1.chunk.css",
+    "static/js/main.bc5393da.chunk.js"
+  ]
+}
